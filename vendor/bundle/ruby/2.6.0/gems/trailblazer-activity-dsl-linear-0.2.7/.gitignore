@@ -1,0 +1,12 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/.rubocop-https---raw-githubusercontent-com-trailblazer-meta-master-rubocop-yml
+/.rakeTasks
+/.tool-versions
